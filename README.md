@@ -1,2 +1,6 @@
-# solved_problems
-A collection of problems Ive solved in codewars and leetcode
+# Solved problems
+
+- A collection of problems I've solved in codewars and leetcode using C  and Python
+
+
+
